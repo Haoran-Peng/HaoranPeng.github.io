@@ -49,8 +49,6 @@ I have developed a particular interest in ***Machine Learning for Wireless Commu
 3. **Haoran Peng**, Li-Chun Wang, and Zhuo-Fu Jian, “Data-Driven Spectrum Partition for Multiplexing URLLC and eMBB”, **IEEE Trans. Cogn. Commun. Netw.**, vol. 9, no. 2, pp. 386-397, Apr., 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10003191) **(中科院一区)**
 
 4. **Haoran Peng**, Ang-Hsun Tsai, Li-Chun Wang, and Zhu Han, “LEOPARD: Parallel Optimal Deep Echo State Network Prediction Improves Service Coverage for UAV-assisted Outdoor Hotspots”,  **IEEE Trans. Cogn. Commun. Netw.**, vol. 8, no. 1, pp. 282-295, Mar. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9548955) [[Slides]](https://haoran-peng.github.io/Slides/LEOPARD_TCCN.pdf) [[Code]](https://github.com/Haoran-Peng/parallel_deep_echo_state_network) **(中科院一区)**
-
-<!--5. **Haoran Peng**, Cheng-Yuan Ho, Yen-Ting Lin, and Li-Chun Wang, “Energy-Efficient Reconfigurable Intelligent Surfaces for Prioritized Spectrum Sharing: A Two-User Case”, has submitted to **IEEE Trans. Wireless Commun.** *(under review)*.-->
    
 5. **Haoran Peng**, Yen-Ting Lin, Cheng-Yuan Ho, and Li-Chun Wang, “Energy Efficiency Optimization for IoT Systems with Reconfigurable Intelligent Surfaces: A Self-Supervised Reinforcement Learning Approach”, has submitted to **IEEE Trans. Wireless Commun.** *(under review)*.
 
